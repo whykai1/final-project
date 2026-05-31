@@ -1,14 +1,14 @@
 /* 
 
-   sketch.js — all JavaScript for "You Have Been Observed"
+ 
 
    HOW THIS FILE IS ORGANISED
    ─────────────────────────────────────────────────────────────────────
-   SECTION 1 — YOUR CONTENT   ← edit freely, this is your data
+   SECTION 1 — CONTENT   ← edit freely, this is your data
    SECTION 2 — PAGE RENDERER  ← builds the DOM from your data
    SECTION 3 — INTERACTIONS   ← video, timeline, Three.js map logic
 
-   Only edit Section 1 unless you need to change layout or behaviour.
+  
 
  */
 
